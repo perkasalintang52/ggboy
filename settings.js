@@ -1,8 +1,8 @@
 /**
-  * WhatsApp  : wa.me/6288232991394
-  * Instagram : https://instagram.com/rdtyaptralvrtha
-  * YouTube   : https://youtube.com/channel/UCIDFLJlqldM5PVx_U_HbXWw
-  * GitHub    : https://github.com/ThadzBotZ
+  * WhatsApp  : wa.me/6281322577123
+  * Instagram : https://instagram.com/joceylintangg
+  * YouTube   : https://tiktok.com/@joceylintangg
+  * GitHub    : https://github.com/perkasalintang52
   * Library   : @adiwajshing/baileys
   * Thanks To : 
   *  - Allah SWT
@@ -10,22 +10,22 @@
   *  - Hardianto (Website APIKey's)
   *
   *
-  * © 2022 Thadz BotZ. All Right Reserved
+  * © 2022 SADBOY BOTZ. All Right Reserved
 **/
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6288232991394']
-global.premium = ['6288232991394']
-global.ownername = 'Thadz BotZ'
-global.botname = 'Zarn Bot'
-global.ig = 'https://instagram.com/rdtyaptralvrtha'
-global.youtube = 'https://youtube.com/channel/UCIDFLJlqldM5PVx_U_HbXWw'
-global.github = 'https://github.com/ThadzBotZ'
-global.packname = 'ZarnBot'
-global.author = '+62882007117302'
+global.owner = ['6281322577123']
+global.premium = ['6281322577123']
+global.ownername = 'Lintang'
+global.botname = 'SADBOY BOTZ'
+global.ig = 'https://instagram.com/joceylintangg'
+global.youtube = 'https://tiktok.com/@joceylintangg'
+global.github = 'https://github.com/perkasalintang52'
+global.packname = 'SADBOY BOTZ'
+global.author = '+6281322577123'
 global.sessionName = 'session'
-global.prefa = ['!','.','🐦','🐤','🗿']
+global.prefa = ['']
 global.mess = {
     success: 'Success!',
     admin: 'Only Admin!',
